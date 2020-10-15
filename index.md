@@ -1,12 +1,14 @@
-## Welcome to Bobi's GitHub Pages
+# Welcome to Bobi's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bobiaulia/bobiaulia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In this page i will share my machine learning projects. If you interested in any project, feel free to discuss it with me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Thailand Early covid-19 confirmed case forecasting using Timeseries
 
-### Markdown
+We all know about covid-19 spreading speed is very fast. In its early encounter, many country try to surpress the its spreading speed. However, it's still hard to predict how fast it will spread across the country. This project objective is to get predictions or forecasting total confirmed covid-19 case in a country (i choosed Thailand).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Data source
+
+I get my data from https://www.kaggle.com/imdevskp/corona-virus-report
 
 ```markdown
 Syntax highlighted code block
