@@ -43,7 +43,11 @@ lstm_cnn.add(Dense(1))
 lstm_cnn.compile(optimizer='adam', loss='mean_squared_error', metrics='cosine_similarity')
 ```
 <br/>
+
 - **Predicting (forecasting) method** <br/>
+
 For some reason, I used rolling prediction (forecasting) method to predict the value with my model. The main reason is because LSTM is not sutable to predict far ahead in the future because of its instability.
 <br/>
+
 - **Model application** <br/>
+
