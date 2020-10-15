@@ -8,7 +8,7 @@ We all know about covid-19 spreading speed is very fast. In its early encounter,
 
 ### Data source
 
-I get my data from https://www.kaggle.com/imdevskp/corona-virus-report
+I get my data from (https://www.kaggle.com/imdevskp/corona-virus-report/)
 
 ```markdown
 Syntax highlighted code block
