@@ -22,7 +22,7 @@ Lastly, after analyzing and choosing for the best architecture, I wrote small in
 
 ### Result
 
-- **Best architecture in my experiment**
+- **Best architecture in my experiment** <br/>
 ```python
 # CNN LSTM Model
 
@@ -41,8 +41,8 @@ lstm_cnn.add(LSTM(block, activation='relu'))
 lstm_cnn.add(Dense(1))
 lstm_cnn.compile(optimizer='adam', loss='mean_squared_error', metrics='cosine_similarity')
 ```
-
-- **Predicting (forecasting) method**\
+<br/>
+- **Predicting (forecasting) method** <br/>
 For some reason, I used rolling prediction (forecasting) method to predict the value with my model. The main reason is because LSTM is not sutable to predict far ahead in the future because of its instability.
-
-- **Model application**
+<br/>
+- **Model application** <br/>
