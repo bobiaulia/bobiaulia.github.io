@@ -1,10 +1,14 @@
 # Welcome to Bobi's GitHub Pages
 
-In this page I will share my machine learning projects. If you interested in any project, feel free to discuss it with me.
+In this page I will share my machine learning projects.
+If you interested in any project, feel free to discuss it with me.
 
 ## Thailand Early covid-19 confirmed case forecasting using Timeseries (overview)
 
-We all know about covid-19 spreading speed is very fast. In its early encounter, many country try to surpress the its spreading speed. However, it's still hard to predict how fast it will spread across the country. This project objective is to get predictions or forecasting total confirmed covid-19 case in a country (I choosed Thailand).
+We all know about covid-19 spreading speed is very fast.
+In its early encounter, many country try to surpress the its spreading speed.
+However, it's still hard to predict how fast it will spread across the country.
+This project objective is to get predictions or forecasting total confirmed covid-19 case in a country (I choosed Thailand).
 
 ### Data source
 
@@ -12,7 +16,8 @@ I get my data from [HERE](https://www.kaggle.com/imdevskp/corona-virus-report) (
 
 ### What will I do with the data?
 
-From my prespective, we cas see this data as timeseries problem. Despite timeseries is not the most suitable model to solve this problem, it still gave us some insight about what will happen in the future.
+From my prespective, we cas see this data as timeseries problem.
+Despite timeseries is not the most suitable model to solve this problem, it still gave us some insight about what will happen in the future.
 
 ### Research method
 
@@ -51,3 +56,8 @@ For some reason, I used rolling prediction (forecasting) method to predict the v
 
 - **Model application** <br/>
 
+Here's my python code to apply the result [Model Application](https://github.com/bobiaulia/Early-Covid-19-Project/blob/main/final_result/model_application.ipynb)
+How to run it in python? I hope this little guide will help.
+- asd
+- asd
+- asd
