@@ -23,6 +23,7 @@ Lastly, after analyzing and choosing for the best architecture, I wrote small in
 ### Result
 
 - **Best architecture in my experiment** <br/>
+
 ```python
 # CNN LSTM Model
 
