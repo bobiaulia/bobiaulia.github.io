@@ -58,7 +58,7 @@ For some reason, I used rolling prediction (forecasting) method to predict the v
 Here's my python code to apply the result! Just click > [Model Application](https://github.com/bobiaulia/Early-Covid-19-Project/blob/main/final_result/model_application.ipynb).<br/>
 <br/>
 How to run it in python? I hope this little guide will help.
-  - Donwload the code and dataset (csv files except thailand_covid_19_cases.csv) in that folder.
+  - Download the code and dataset (csv files except thailand_covid_19_cases.csv) in that folder.
   - Make sure the path for every files in python code in match with your files path in your directories.
   - Input your desired start and end date in the input sections.
   - Run all code.
