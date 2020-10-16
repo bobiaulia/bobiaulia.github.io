@@ -3,7 +3,7 @@
 In this page I will share my machine learning projects.
 If you interested in any project, feel free to discuss it with me.
 
-## Thailand Early covid-19 confirmed case forecasting using Timeseries (overview)
+## Thailand's Early covid-19 confirmed case forecasting using Timeseries (overview)
 
 We all know about covid-19 spreading speed is very fast.
 In its early encounter, many country try to surpress the its spreading speed.
