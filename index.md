@@ -46,7 +46,8 @@ lstm_cnn.add(TimeDistributed(Flatten()))
 lstm_cnn.add(LSTM(block, activation='relu'))
 lstm_cnn.add(Dense(1))
 lstm_cnn.compile(optimizer='adam', loss='mean_squared_error', metrics='cosine_similarity')
-```<br/>
+```
+<br/>
 
 - **Predicting (forecasting) method** <br/>
 
@@ -54,10 +55,11 @@ For some reason, I used rolling prediction (forecasting) method to predict the v
 
 - **Model application** <br/>
 
-Here's my python code to apply the result! Just click ---> [Model Application](https://github.com/bobiaulia/Early-Covid-19-Project/blob/main/final_result/model_application.ipynb).<br/>
+Here's my python code to apply the result! Just click > [Model Application](https://github.com/bobiaulia/Early-Covid-19-Project/blob/main/final_result/model_application.ipynb).<br/>
+<br/>
 How to run it in python? I hope this little guide will help.
   - Donwload the code and dataset (csv files except thailand_covid_19_cases.csv) in that folder.
   - Make sure the path for every files in python code in match with your files path in your directories.
   - Input your desired start and end date in the input sections.
   - Run all code.
-  - You will get the graph of Tailand corfimed case in the range of your desired dates. The variable [desired_data] contain series of dates with it's respective values of total confirmed cases
+  - You will get the graph of Tailand corfimed case in the range of your desired dates. The variable _desired_data_ contain series of dates with it's respective values of total confirmed cases
